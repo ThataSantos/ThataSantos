@@ -13,6 +13,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
 </p>
 
 <p align="left">
