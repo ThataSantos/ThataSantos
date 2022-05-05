@@ -30,10 +30,7 @@
 
 ## Find me around the web 🌎: 
 
- 
-[![Cursos ministrados](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/thabatasantos/)&nbsp;
-
-  <br>
+ [![Cursos ministrados](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thabatasantos/)&nbsp;
 
 
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ThataSantos)
