@@ -24,6 +24,10 @@
 
 ---
 
+![Thata Santos](https://github-readme-stats.vercel.app/api/top-langs/?username=thatasantos&layout=compact&theme=tokyonight)
+
+---
+
 ![ThataSantoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThataSantos&show_icons=true&theme=dark)
 
 
@@ -31,7 +35,7 @@
 
 ## Find me around the web 🌎: 
 
- [![Cursos ministrados](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thabatasantos/)&nbsp;
+ [![Rede social](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thabatasantos/)&nbsp;
 
 
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ThataSantos)
