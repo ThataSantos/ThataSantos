@@ -4,7 +4,7 @@
 <h2 align="left"> 
   Hi, I'm Thabata Santos, but you can call me Thata, currently studying programming.
 </p>
----
+
 
 ## 🌎 **_Social_** 🌎
 
