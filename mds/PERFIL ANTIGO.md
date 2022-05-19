@@ -4,15 +4,9 @@
 <h2 align="left"> 
   Hi, I'm Thabata Santos, but you can call me Thata, currently studying programming.
 </p>
----
-
-## 🌎 **_Social_** 🌎
-
-<a href="https://www.linkedin.com/in/thabatasantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/thata_santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ---
-<div align=center>
+
 <p align="left">
   ✍🏾 knowledge:
   
@@ -30,21 +24,18 @@
 
 ---
 
-## <img src="https://c.tenor.com/O7kYXW3ag-oAAAAi/coffee-lover-hot-coffee.gif" align=center width="100px">  **_Buy Me a Coffee to support me!_** <img src="https://c.tenor.com/O7kYXW3ag-oAAAAi/coffee-lover-hot-coffee.gif" align=center width="100px">
-
-<a href="https://www.buymeacoffee.com/thatasantos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="buy_coffee" width="150"></a>
-
----
-
 ![Thata Santos](https://github-readme-stats.vercel.app/api/top-langs/?username=thatasantos&layout=compact&theme=tokyonight)
 
 ---
 
 ![ThataSantoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThataSantos&show_icons=true&theme=dark)
 
+
 ---
 
-## 🏆 **_Github Achievements_** 🏆
+## Find me around the web 🌎: 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thatasantos&theme=gruvbox&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github.com/thatasantos)
+ [![Rede social](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thabatasantos/)&nbsp;
 
+
+ [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ThataSantos)
