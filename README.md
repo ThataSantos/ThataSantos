@@ -30,7 +30,7 @@
 
 ---
 
-## <img src="https://c.tenor.com/O7kYXW3ag-oAAAAi/coffee-lover-hot-coffee.gif" align=center width="100px">  **_Buy Me a Coffee to support me!_** <img src="https://c.tenor.com/O7kYXW3ag-oAAAAi/coffee-lover-hot-coffee.gif" align=center width="100px">
+## <img src="https://c.tenor.com/O7kYXW3ag-oAAAAi/coffee-lover-hot-coffee.gif" align=center width="50px">  **_Buy Me a Coffee to support me!_** <img src="https://c.tenor.com/O7kYXW3ag-oAAAAi/coffee-lover-hot-coffee.gif" align=center width="50px">
 
 <a href="https://www.buymeacoffee.com/thatasantos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="buy_coffee" width="150"></a>
 
